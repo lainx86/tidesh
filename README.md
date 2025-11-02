@@ -27,6 +27,7 @@
 ### Build
 
 ```bash
-clang -o tidesh tidesh.c
-# or
-gcc -o tidesh tidesh.c
+make
+./tidesh
+
+
